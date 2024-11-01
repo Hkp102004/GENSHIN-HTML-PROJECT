@@ -1,0 +1,122 @@
+body{
+    background-image: url("/Image/element.png");
+    background-attachment: fixed;
+}
+.heading{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: white;
+    text-align: center;
+}
+.heading h1{
+    font-size: 100px;
+}
+.heading p{
+    font-size:22px;
+}
+.list{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: white;
+}
+.list li{
+    font-size: 25px;
+}
+.venti{
+    border: 1px white solid;
+    color: white;
+    padding: 20px;
+    border-radius: 15px;
+    width: 700px;
+    margin-top: 300px;
+    backdrop-filter: blur(5px);
+}
+.venti h1{
+    font-size: 40px;
+}
+.venti p{
+    font-size: 20px;
+    padding:10px;
+}
+
+.vepi1{
+    position: absolute;
+    top: 65%;
+    right: -15%;
+    transform: translate(-50%,50%);
+    background-image: url("/Image/MV5BYTY1NjVhMzEtNDdkMS00MjhmLThlOWYtMjU5MGNjMDgwZjY3XkEyXkFqcGc@._V1_.jpg");
+    height: 350px;
+    border: aqua 2px solid;
+    border-radius: 15px;
+}
+.vepi2{
+    height: 390px;
+    position: absolute;
+    top: 75%;
+    right: -16%;
+    transform: translate(-50%, 50%);
+}
+.zhongli{
+    border: 1px white solid;
+    color: white;
+    padding: 20px;
+    border-radius: 15px;
+    width: 700px;
+    margin-top: 500px;
+    backdrop-filter: blur(5px);
+}
+.zhongli h1{
+    font-size: 40px;
+}
+.zhongli p{
+    font-size: 20px;
+    padding:10px;
+}
+.john{
+    position: absolute;
+    top: 165%;
+    left: 79%;
+    transform: translate(-50%,50%);
+    height: 400px;
+    background-image: url("/Image/Namecard_Background_Zhongli_Planet_Befall.webp");
+    border: 3px rgb(146, 103, 60) solid;
+    border-radius: 10px;
+}
+.john2{
+    height: 420px;
+    position: absolute;
+    top: 180%;
+    left: 79%;
+    transform: translate(-50%, 50%);
+}
+.raiden{
+    border: 1px white solid;
+    color: white;
+    padding: 20px;
+    border-radius: 15px;
+    width: 700px;
+    margin-top: 600px;
+    backdrop-filter: blur(5px);
+}
+.raiden h1{
+    font-size: 40px;
+}
+.raiden p{
+    font-size: 20px;
+    padding:10px;
+}
+.rai1{
+    position: absolute;
+    top: 287%;
+    left: 79%;
+    transform: translate(-50%,50%);
+    height: 400px;
+    background-image: url("/Image/1161810.png");
+    border: 3px rgb(70, 9, 145) solid;
+    border-radius: 10px;
+}
+.rai2{
+    height: 420px;
+    position: absolute;
+    top: 305%;
+    left: 79%;
+    transform: translate(-50%, 50%);
+}
